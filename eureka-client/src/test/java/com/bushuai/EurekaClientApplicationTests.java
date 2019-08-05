@@ -1,4 +1,4 @@
-package com.bushuai.cn;
+package com.bushuai;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
