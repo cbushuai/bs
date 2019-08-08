@@ -13,6 +13,6 @@ public class HiController {
 
 	@GetMapping("/hi")
 	public String hi(@RequestParam String name) {
-		return "hi"+ name +", l am from port : "+ port;
+		return "hi "+ name +", l am from port : "+ port;
 	}
 }
